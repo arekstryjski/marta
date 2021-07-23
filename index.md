@@ -1,5 +1,5 @@
 ## Marta's links
 
-* [Songs](songs.md)
+* [Songs](songs/songs.md)
 
-* [Yoga](yoga.md)
+* [Yoga](yoga/yoga.md)
